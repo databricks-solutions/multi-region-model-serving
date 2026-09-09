@@ -89,10 +89,6 @@ The provider stack (feature table, HA Lakebase instance, continuous synced table
 registration, and the serving endpoint) and the Delta Sharing SQL were validated against real
 workspaces on `databricks-sdk` 0.137.0.
 
-## Video Overview
-
-_To be added._
-
 ## How to get help
 
 Databricks support doesn't cover this content. For questions or bugs, please open a GitHub issue
