@@ -1,0 +1,9 @@
+# Copy to terraform.tfvars and fill in. terraform.tfvars is gitignored.
+
+databricks_account_id = "00000000-0000-0000-0000-000000000000"
+
+# Region for the serverless recipient workspace + metastore (Workspace B / Metastore B)
+aws_region = "us-west-2"
+
+workspace_name = "multi-region-serving-recipient"
+metastore_name = "metastore-b-us-west-2"
